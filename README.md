@@ -1,1 +1,1 @@
-[Ссылка на Github Pages](https://sergeybildanov.github.io/components-class/)
+[Ссылка на Github Pages](https://sergeybildanov.github.io/calendar/)
