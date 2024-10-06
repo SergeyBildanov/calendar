@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/calendar/static/css/main.27d6bb33.css",
+    "main.js": "/calendar/static/js/main.3b3200ea.js",
+    "static/js/453.a6a97343.chunk.js": "/calendar/static/js/453.a6a97343.chunk.js",
+    "static/media/item-blue.jpg": "/calendar/static/media/item-blue.2103f69bf3b1c8b44f34.jpg",
+    "static/media/item-black.jpg": "/calendar/static/media/item-black.dd74251d47c485703b4d.jpg",
+    "index.html": "/calendar/index.html",
+    "main.27d6bb33.css.map": "/calendar/static/css/main.27d6bb33.css.map",
+    "main.3b3200ea.js.map": "/calendar/static/js/main.3b3200ea.js.map",
+    "453.a6a97343.chunk.js.map": "/calendar/static/js/453.a6a97343.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27d6bb33.css",
+    "static/js/main.3b3200ea.js"
+  ]
+}
